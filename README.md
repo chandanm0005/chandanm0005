@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi there, I'm [CHANDAN M]!
+
 Welcome to my GitHub profile!  
 I'm a passionate developer with expertise in **C, Python, and Frontend Development**.  
 I enjoy building projects that solve real-world problems and continuously learning new technologies.
@@ -30,11 +31,11 @@ I enjoy building projects that solve real-world problems and continuously learni
 ## 🚀 Projects
 Here are a few projects I’ve worked on:
 
-### 🧬 COVID-19 Data Analysis
+### 🧬 [COVID-19 Data Analysis](https://github.com/chandanm0005/COVID-19-DATA-ANALYSIS)
 Analyzed and visualized COVID-19 datasets using Python (Pandas, Matplotlib).  
 Explored infection trends and presented data-driven insights.
 
-### 🤖 AI Hiring Agent Project
+### 🤖 [AI Hiring Agent Project](https://github.com/chandanm0005/AI-HIRING-AGENT-PROJECT)
 Developed an AI-based hiring assistant that helps in candidate shortlisting and analysis using Python and ML techniques.
 
 ---
