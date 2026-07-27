@@ -15,7 +15,7 @@ Passionate about building intelligent applications, solving real-world problems,
 <img src="https://img.shields.io/badge/LinkedIn-Chandan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@example.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=chandan.m0005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -117,7 +117,7 @@ https://github.com/chandanm0005/Resume-Builder-and-Ats-Tracker
 
 <p align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=your-email@example.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=chandan.m0005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
