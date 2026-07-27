@@ -11,10 +11,6 @@ Passionate about building intelligent applications, solving real-world problems,
 
 <p align="center">
 
-<a href="https://github.com/chandanm0005">
-<img src="https://img.shields.io/github/followers/chandanm0005?style=for-the-badge&logo=github" />
-</a>
-
 <a href="https://www.linkedin.com/in/chandanm0005">
 <img src="https://img.shields.io/badge/LinkedIn-Chandan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
