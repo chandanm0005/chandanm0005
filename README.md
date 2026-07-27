@@ -106,24 +106,6 @@ https://github.com/chandanm0005/Resume-Builder-and-Ats-Tracker
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandanm0005&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanm0005&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanm0005&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - ☁️ Cloud Computing
@@ -145,10 +127,6 @@ https://github.com/chandanm0005/Resume-Builder-and-Ats-Tracker
 
 <a href="https://www.linkedin.com/in/chandanm0005">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/chandanm0005">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
